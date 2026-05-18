@@ -2,7 +2,7 @@
 
 # Hi there, I'm Trần Hoàng Phúc! 🛠️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Junior+Full-Stack+Developer;Java+%7C+C%23+%7C+React+%E2%80%94+The+Trinity;Building+Systems+from+First+Principles;Escaping+Tutorial+Hell+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Junior+Full-Stack+Developer;Java+%7C+C%23+%7C+React+%E2%80%94+The+Trinity;Building+Systems+from+First+Principles;Create+Own+MindSet+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -107,11 +107,11 @@ I don't learn by memorizing docs or following tutorials step-by-step. I build my
 
 <div align="center">
 
-![Sunshower1260's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunshower1260&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&icon_color=F75C7E)
+![Sunshower1260's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sunshower1260&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9&icon_color=F75C7E)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunshower1260&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sunshower1260&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sunshower1260&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF6600&currStreakLabel=F75C7E)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sunshower1260&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF6600&currStreakLabel=F75C7E)
 
 </div>
 
